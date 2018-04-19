@@ -1,0 +1,6 @@
+[submodule "Portland-PD"]
+	path = Portland-PD
+	url = git@github.com:Lattice-Works/Portland-PD.git
+[submodule "Catholic-Charities"]
+	path = Catholic-Charities
+	url = git@github.com:Lattice-Works/Catholic-Charities.git
