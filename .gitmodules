@@ -4,3 +4,9 @@
 [submodule "Catholic-Charities"]
 	path = Catholic-Charities
 	url = git@github.com:Lattice-Works/Catholic-Charities.git
+[submodule "Cumberland-CO-Jail"]
+	path = Cumberland-CO-Jail
+	url = git@github.com:Lattice-Works/Cumberland-CO-Jail.git
+[submodule "Cumberland-CO-Jail-TestSpillman"]
+	path = Cumberland-CO-Jail-TestSpillman
+	url = git@github.com:Lattice-Works/Cumberland-CO-Jail-TestSpillman.git
